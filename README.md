@@ -1,7 +1,7 @@
 # Hi, I'm Pratyusha 👋
 
-Profile Views https://komarev.com/ghpvc/?username=Pratyusha-art&label=Profile%20views&color=0e75b6&style=flat,https://github.com/Pratyusha-art 
-GitHub followers https://img.shields.io/github/followers/Pratyusha-art?label=Followers&style=social,https://github.com/Pratyusha-art
+Profile Views [https://komarev.com/ghpvc/?username=Pratyusha-art&label=Profile%20views&color=0e75b6&style=flat],[https://github.com/Pratyusha-art]
+GitHub followers [https://img.shields.io/github/followers/Pratyusha-art?label=Followers&style=social],[https://github.com/Pratyusha-art]
 
 BTech CSE Graduate (2025) | QA Intern at FlexiFunnels | Software Engineer in the making
 
